@@ -1,0 +1,7 @@
+streamlit
+yfinance
+pandas
+pytz
+altair
+twstock
+lxml
